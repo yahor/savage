@@ -1,6 +1,7 @@
 SAVAGE_PATH = File.dirname(__FILE__) + "/savage/"
 [
   'utils',
+  'transformable',
   'direction',
   'path',
   'parser'
